@@ -1,0 +1,11 @@
+{
+  "name": "challenge_01",
+  "version": "1.0.0",
+  "description": "Challenge 01 for developing skills at programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Freddy Romo",
+  "license": "ISC"
+}
